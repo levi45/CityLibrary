@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+h1 { color: #ffffff; font-family: 'Raleway',sans-serif; font-size: 62px; font-weight: 800; line-height: 72px; margin: 0 0 24px; text-align: center; text-transform: uppercase; position: absolute; top: 0; }
+
+
+body {
+	height: 100vh;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-image: url(https://i.pinimg.com/564x/c8/b0/7e/c8b07e380215edaaa1903769586a61dc.jpg);
+
+}
+
+.background-image:{
+filter: blur(8px);
+-webkit-filter: blur(8px);}
+
+h2{
+ color:#FFFFFF;
+  padding-top: 1.5rem;
+}
+a{
+  color: #333;
+}
+a:hover{
+  color: #da5767;
+  text-decoration: none;
+}
+.card{
+  top: 10%;
+}
+.form-control{
+  background-color: #f8f9fa;
+  padding: 20px;
+  padding: 25px 15px;
+  margin-bottom: 1.3rem;
+}
+
+.form-control:focus {
+
+    color: #000000;
+    background-color: #ffffff;
+    border: 3px solid #da5767;
+    outline: 0;
+    box-shadow: none;
+
+}
+
+.btn{
+  padding: 0.6rem 1.2rem;
+  background: #da5767;
+  border: 2px solid #da5767;
+}
+.btn-primary:hover {
+
+
+    background-color: #df8c96;
+    border-color: #df8c96;
+  transition: .3s;
+
+}

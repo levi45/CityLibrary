@@ -1,0 +1,17 @@
+model\WareHouse.class
+LogoutServlet.class
+ShoppingCartServlet.class
+AddToCartServlet.class
+LoginServlet.class
+model\Contains.class
+Dao\Databaseconnection.class
+model\ShoppingBasket.class
+RemoveProductServlet.class
+ProductPage.class
+model\Publisher.class
+Dao\ShoppingCartDao.class
+model\Product.class
+model\Stock.class
+Registration.class
+model\Customer.class
+Dao\CustomerDao.class
